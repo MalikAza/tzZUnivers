@@ -1,0 +1,36 @@
+{
+  "name": "tzzunivers",
+  "version": "1.0.0",
+  "description": "ZUnivers API wrapper in TypeScript",
+  "main": "src/tsZUnivers.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MalikAza/tsZUnivers.git"
+  },
+  "keywords": [
+    "zunivers",
+    "zerator",
+    "zu",
+    "api",
+    "javascript",
+    "js",
+    "zu",
+    "wrapper"
+  ],
+  "author": "MalikAza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MalikAza/tsZUnivers/issues"
+  },
+  "homepage": "https://github.com/MalikAza/tsZUnivers#readme",
+  "dependencies": {
+    "axios": "^1.6.8"
+  },
+  "devDependencies": {
+    "@types/node": "^20.12.7",
+    "@types/axios": "^0.14.0"
+  }
+}
